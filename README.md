@@ -1,5 +1,5 @@
-# Html things
+# Html Games
 
-As you know by now this is my extensive collection of all things HTML.
+As you know by now this is my extensive collection of all acctually good HTML games.
 
-To use the file, download it and open the HTML file.
+To play the game, download the zip and open the HTML file inside.
